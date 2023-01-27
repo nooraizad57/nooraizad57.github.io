@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>nooraizad.com</title>
-    <link>https://nooraizad57.github.io/nooraizadblog/</link>
+    <link>/</link>
     <description>Recent content on nooraizad.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Nooraizad</copyright>
-    <lastBuildDate>Sat, 28 Jan 2023 00:50:51 +0800</lastBuildDate><atom:link href="https://nooraizad57.github.io/nooraizadblog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Jan 2023 00:50:51 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Summary: The Lean Startup by Eric Ries - Introduction</title>
-      <link>https://nooraizad57.github.io/nooraizadblog/posts/lean_startup01/</link>
+      <link>/posts/lean_startup01/</link>
       <pubDate>Sat, 28 Jan 2023 00:50:51 +0800</pubDate>
       
-      <guid>https://nooraizad57.github.io/nooraizadblog/posts/lean_startup01/</guid>
+      <guid>/posts/lean_startup01/</guid>
       <description>Summary Writer talks about his own failure building a startup A lesson from both of his successes and failure: its the boring stuff that matters the most - startup success can be engineered by following the right process - can be learned and can be taught Entrepreneurship is a kind of management A new entrepreneur movement built on many previous management and product development idea including: lean manufacturing, design thinking, customer development and agile development Origins of the lean startup Business and marketing functions of a startup are essential as engineering and product development aspect of a startup - deserves an equally rigorous methodology to guide them Author mission: to improve the success rate of new innovative products, worldwide The Lean Startup Method Principles of the lean startup Entrepreneurs are everywhere</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://nooraizad57.github.io/nooraizadblog/about/</link>
+      <link>/about/</link>
       <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://nooraizad57.github.io/nooraizadblog/about/</guid>
+      <guid>/about/</guid>
       <description>&amp;ldquo;The most valuable of all talents is that of never using two words when one will do&amp;rdquo;
 I have one goal in the year 2023. I told myself to read more books. But this time I want to make sure that I understand and remember things that I have read. Here I will share summary and highlights of books that I have read, in order for me to revise them whenever I need some inspiration.</description>
     </item>
